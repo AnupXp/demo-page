@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+/* same style related */
+.btn-pre{
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 10px;
+    background: #FFF;
+    width: 160px;
+    height: 64px;
+    border: none;
+}
+/* header related  */
+.header-container{
+    background-image: url('/images/banner/banner3.png');
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 1600;
+    margin-bottom: 140px;
+}
+.h-content{
+    text-align: right;
+    padding: 210px 230px 350px 850px;
+}
+.heading{
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 24px;
+}
+.paragraph{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+/* main section related  */
+main{
+    margin: 0px 200px 0 200px;
+}
+.main-container{
+    display: flex;
+    justify-content: space-around;
+}
+.img-content{
+    width: 450px;
+    height: 900px;
+}
+.info-content{
+    margin: 250px 100px 200px 200px;
+}
+.h-info{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.p-info{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.unorderlist{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    padding-left: 20px;
+}
+.plans{
+    text-align: center;
+    margin-bottom: 50px;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+.main-plan{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 70px;
+}
+div>img{
+    padding: 0 50px;
+ }
+div>h2{
+    color: #151414;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700
+}
+div>p{
+    color: #737272;
+    text-align: center;
+    font-size: 25px;   
+    font-weight: 500;
+    margin-bottom: 120px;
+}
+.main-bg-img{
+    background-image: url('/images/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    
+}
+.g-img{
+    margin-left: 0;
+    padding-left: 0;
+}
