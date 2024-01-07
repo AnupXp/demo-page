@@ -18,7 +18,7 @@ body{
 }
 /* header related  */
 .header-container{
-    background-image: url('/images/banner/banner3.png');
+    background-image: url('./images/banner/banner3.png');
     background-repeat: no-repeat;
     height: 800px;
     width: 1600;
@@ -105,7 +105,7 @@ div>p{
     margin-bottom: 120px;
 }
 .main-bg-img{
-    background-image: url('/images/watch.png');
+    background-image: url('./images/watch.png');
     background-repeat: no-repeat;
     width: 1140px;
     height: 300px;
